@@ -1,0 +1,1 @@
+export { default } from "G:\\Project\\vuePress\\vue-press\\node_modules\\vuepress-plugin-sakura\\bin\\enhanceAppFile.js"
